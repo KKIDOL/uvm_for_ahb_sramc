@@ -1,2 +1,0 @@
-uvm for ahb-sramc
-

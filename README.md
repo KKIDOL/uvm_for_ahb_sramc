@@ -1,6 +1,6 @@
 uvm for ahb-sramc
 
-![uvm_ahb_sam](.\pics\ahb_sam.png)
+![uvm_ahb_sam](../uvm_for_ahb_sramc/pics/ahb_sam.png)
 
 
 
